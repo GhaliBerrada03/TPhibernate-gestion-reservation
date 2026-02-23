@@ -75,4 +75,10 @@ Hibernate crée automatiquement une table de jointure :
 
 <img width="582" height="359" alt="Screenshot 2026-02-23 214912" src="https://github.com/user-attachments/assets/3f4f87c0-6957-4a0d-9fac-1388cab35b30" />
 
+# Diagramme de classe 
+
+<img width="776" height="577" alt="image" src="https://github.com/user-attachments/assets/4df5f0a9-3d02-4e00-8733-d4bbf3328327" />
+
+
+
 
